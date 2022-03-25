@@ -1,4 +1,4 @@
-rootProject.name = "dsl-script"
+rootProject.name = "kotlin-dsl-script-boilerplate"
 
 include("script")
 include("dsl")
